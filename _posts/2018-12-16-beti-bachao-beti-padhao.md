@@ -19,6 +19,7 @@ According to census data, the child gender ratio in India was 927 girls per 1,00
 1. **What were the criteria to select those 6 states?** There are many other states having a worse situation than these states. As per the census data 2011, states like Rajasthan(888), J&K(889), Gujarat(890), Maharastra(894) having less sex ratio index than the states selected for the campaign. 
 I can understand there could be many reasons like state government support to centre, insignificant total population etc. But, I think there should be more big good reasons behind this. It will interesting to know those reationale behind this.
 
+</br>
 
 | State name       | Child Sex ratio  |
 | ------------- |:-------------:| 
@@ -32,6 +33,8 @@ I can understand there could be many reasons like state government support to ce
 | Maharastra | 894 |
 | **UP** | 902 |
 | **Bihar**      | 935 | 
+
+</br>
 
 _Campaign launched in **Highlighted states.**_
 
