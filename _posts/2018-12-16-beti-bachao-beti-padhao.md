@@ -34,9 +34,9 @@ I can understand there could be many reasons like state government support to ce
 | **UP** | 902 |
 | **Bihar**      | 935 | 
 
-<br/>
-
 _Campaign launched in **Highlighted states.**_
+
+<br/>
 
 
 2. **Surprisingly, In most of the highly populated states, towns have lesser sex ratio index than Villages**. Is it because foeticide is less in the village due to less technological advancement? I think this can be a good finding to help in selecting potential areas for such campaigns and deciding policies to solve the issues. 
