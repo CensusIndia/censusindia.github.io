@@ -1,10 +1,10 @@
 # Site settings
-title:       Pratyush Kumar
-email:       me@pratyushkumar.me
-author:      Pratyush Kumar
-description: "A Data Science blog."
+title:       Census India
+email:       censusindiadata@gmail.com
+author:      CensusIndia
+description: "Census India Blog"
 baseurl:     ""
-url:         "https://pratyushkumar.me"
+url:         "https://censusindia.github.io/"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -33,23 +33,23 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: pratyushkumar
+disqus_shortname: censusindia
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
 facebook_comments: false
-facebook_appid: https://www.facebook.com/pratyush.kumar.19
+facebook_appid: 
 facebook_comments_number: 10
 
 # Social icons
-github_username: pratyush19
+github_username: 
 bitbucket_username:
 stackoverflow_id:
 twitter_username: 
 skype_username:
 steam_nickname:
 google_plus_id: 
-linkedin_username: pratyush19
+linkedin_username: 
 kaggle_username: 
 angellist_username:
 medium_id:
