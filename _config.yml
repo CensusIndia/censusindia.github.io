@@ -33,7 +33,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: censusindia
+disqus_shortname: censusindia-github-io
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
