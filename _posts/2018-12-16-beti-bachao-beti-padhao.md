@@ -41,7 +41,9 @@ But, I think there should be more big good reasons behind this. It will interest
 <br/>
 
 
-**Surprisingly, In most of the highly populated states, towns have lesser sex ratio index than Villages**. Is it because foeticide is less in the village due to less technological advancement in villages? I think this can be a good finding to help in selecting potential areas for many govermental campaigns and deciding policies to solve the issues. 
+**Surprisingly, In most of the highly populated states, towns have lesser sex ratio index than Villages**. Is it because 
+* foeticide is less in the village due to less technological advancement in villages? 
+I think there are many such observations which can help goverments to take strategic decisions for many campaigns and policies. 
 
 <br />
 <p align="center">
