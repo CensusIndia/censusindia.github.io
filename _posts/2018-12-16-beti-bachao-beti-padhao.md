@@ -18,7 +18,8 @@ According to census data, the child gender ratio in India was 927 girls per 1,00
   
 **What were the criteria to select those 6 states?** There are many other states having a worse situation than these states. As per the census data 2011, states like Rajasthan(888), J&K(889), Gujarat(890), Maharastra(894) having less sex ratio index than the states selected for the campaign. May be because of following reasons:
 * I can understand there could be many reasons like state government support to centre.
-* Insignificant Sates total population. 
+* Insignificant Sates total population.
+
 But, I think there should be more big good reasons behind this. It will interesting to know about the reationale behind this.
 
 <br/>
@@ -43,6 +44,7 @@ But, I think there should be more big good reasons behind this. It will interest
 
 **Surprisingly, In most of the highly populated states, towns have lesser sex ratio index than Villages**. Is it because 
 * foeticide is less in the village due to less technological advancement in villages? 
+
 I think there are many such observations which can help goverments to take strategic decisions for many campaigns and policies. 
 
 <br />
